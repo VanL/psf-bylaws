@@ -1,4 +1,4 @@
-Bylaws of the Python Software Foundation, Version 2
+Bylaws of the Python Software Foundation, Version 3
 ===================================================
 
 ARTICLE I 
@@ -1112,5 +1112,6 @@ member of the Board of Directors without the need for a formal motion.
 
 History
 -------
+* Approved by the PSF Voting Members on June 11th, 2017.
 * Amended by the PSF board on May 16th, 2014.
 * Approved by the PSF board on February 19th, 2014.
