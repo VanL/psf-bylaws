@@ -475,6 +475,8 @@ No director shall serve more than six consecutive years. If a director
 has served for six years, that director shall become eligible again serve 
 on the Board of Directors when the directors are seated following the 
 election of the at-large directors in the following calendar year.
+This limit shall take effect upon the next election of non-term-limited
+directors.
 
 **Section 5.6. Resignation and Removal of Directors.** A director may 
 resign at any time upon written request to the corporation.
