@@ -483,6 +483,9 @@ General Corporation Law of the State of Delaware.  A director will be
 automatically removed from the Board of Directors in the event that
 such director ceases to be a member of the corporation for any reason.
 
+An appointed director can be removed at any time by a majority vote of
+the at-large directors.
+
 **Section 5.7. Vacancies.** Any vacancy occurring in the Board
 of Directors, including any vacancy created by reason of an increase
 in the authorized number of directors, may be filled by the
