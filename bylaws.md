@@ -472,7 +472,7 @@ In all other respects Officer Directors shall be as at-large Directors.
 
 **Section 5.5.2 Term Limits for Directors.** 
 No director shall serve more than six consecutive years. If a director
-has served for six years, that director shall become eligible again serve 
+has served for six years, that director shall again become eligible to serve 
 on the Board of Directors when the directors are seated following the 
 election of the at-large directors in the following calendar year.
 This limit shall take effect upon the next election of non-term-limited
