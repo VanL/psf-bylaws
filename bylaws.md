@@ -407,7 +407,7 @@ budget of the corporation (including the budget of any committee or
 Working Group).
 
 **Section 5.2. Qualification.** Directors need not be residents
-of Delaware or of the United States.
+of Delaware or of the United States. 
 
 **Section 5.3. Compensation.** Members of the Board of Directors 
 shall not be compensated for their duties as directors. Directors 
@@ -415,18 +415,18 @@ may be compensated for service as an officer, functionary, employee
 or contractor of the Corporation unless otherwise provided in the 
 Certificate of Incorporation.
 
-**Section 5.4. Number.** The corporation shall initially have eleven 
-(11) directors. Thereafter, the number of directors is fixed until a 
-change by a vote of the voting members at an annual meeting of members 
-to another odd number of directors greater than three (3). Any votes 
-to change the number of directors during a meeting of the members shall 
-be deemed to take effect before the election of any individual 
-directors during the same meeting.
+**Section 5.4. Number.** The corporation shall have thirteen (13) 
+directors, including at-large and appointed directors. Thereafter, the 
+number of directors is fixed until a change by a vote of the voting 
+members at an annual meeting of members to another odd number of directors 
+greater than three (3). Any votes to change the number of Directors during 
+a meeting of the members shall be deemed to take effect before the election 
+of any individual Directors during the same meeting.
 
 **Section 5.5. Election and Term of at-large Directors.** At the
 2017 annual meeting of members and at each annual meeting thereafter,
 the voting members shall elect directors sufficient to fill
-eleven (11) at-large director seats. At-large directors shall hold
+all open at-large director seats. At-large directors shall hold
 office for a term of up to three years, with each year being counted
 as complete at the next succeeding annual meeting. There shall be three
 cohorts of directors. Cohort A directors shall have a an initial term
@@ -434,20 +434,14 @@ extending for three (3) years beginning after the 2017 election of
 directors. Cohort B directors shall have a an initial term extending
 for two (2) years beginning after the 2017 election of directors.
 Cohort C directors shall have an initial term extending for one (1) year
-beginning after the 2017 election of directors. For the 2017 election
-only, the four candidates receiving the highest number of votes shall
-be designated Cohort A directors, the four receiving the next highest
-number of votes shall be designated Cohort B directors, and the three
-receiving the third highest number of votes shall be designated Cohort
-C directors.
+beginning after the 2017 election of directors. 
 
 Each at-large director shall hold office for the term for 
 which he or she is elected and until his or her successor shall have 
 been elected and qualified or until his or her earlier resignation, 
 removal or death.
 
-Upon completion of the term beginning after the 2017 elections, 
-directors shall be elected for a three-year term, unless they are 
+Directors shall be elected for a three-year term, unless they are 
 replacing a director that resigned or was removed, in which case such 
 replacement directors shall be elected to a term sufficient to
 complete a three-year term as measured from the term of the original
@@ -455,20 +449,30 @@ cohort. Replacement directors shall be chosen in order of the number
 of votes received, with the longest terms of service being allocated
 to candidates according to the number of votes received.
 
-**Section 5.5.1 Election and Term of Officer Directors.** The
-corporation shall have up to two Officer Directors selected from the 
-Officers of the Corporation, with the initial selection of Officer 
-Directors corresponding to the positions of Director of Operations 
-and General Counsel, subject to a vote of the members. Officer 
-directors shall be required to maintain their Officer positions for 
-the duration of their term as Officer Directors on the Board of 
-Directors and shall be subject to approval votes for retention.
-Approval votes for the retention of Officer Directors shall be held 
-concurrent with the election of other directors on a schedule deemed 
-convenient by the Board, but with no requirement to be more frequent 
-than the election of Cohort A directors. Officer Directors can also be
-removed subject to a vote of no confidence by the at-large Directors.
-In all other respects Officer Directors shall be as at-large Directors.
+**Section 5.5.1 Selection and Retention of Appointed Directors.** 
+One appointed director position shall be reserved for the Executive 
+Director of the Corporation. Other than the position reserved for the
+Executive Director, the Board of Directors may designate as many
+additional seats as it sees fit to be appointed directors as long as 
+the majority of the seats on the Board of Directors are reserved for 
+at-large directors. Appointed directors shall be chosen to fill a
+particularized need identified by the Board of Directors, and those
+appointed must have the necessary qualification(s) to act in the 
+identified role. 
+
+Appointed directors may also be required to act as Officers of the 
+Corporation, in which case such directors shall be required to maintain 
+their Officer positions for the duration of their term as appointed 
+directors on the Board of Directors.
+
+Appointed directors (other than the Executive Director) shall serve 
+for a term of years to be identified by the Board of Directors. If
+the term of an appointed position on the Board of Directors ends, the
+position will revert to being an at-large position unless the
+Board of Directors chooses to keep the position as an appointed position
+and appoints (or re-appoints) someone to the position.
+
+In all other respects appointed Directors shall be as at-large Directors.
 
 **Section 5.6. Resignation and Removal of Directors.** A director may 
 resign at any time upon written request to the corporation.
@@ -478,6 +482,9 @@ to vote for the election of directors or as otherwise provided in the
 General Corporation Law of the State of Delaware.  A director will be
 automatically removed from the Board of Directors in the event that
 such director ceases to be a member of the corporation for any reason.
+
+An appointed director can be removed at any time by a majority vote of
+the at-large directors.
 
 **Section 5.7. Vacancies.** Any vacancy occurring in the Board
 of Directors, including any vacancy created by reason of an increase
