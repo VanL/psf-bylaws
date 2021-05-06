@@ -334,8 +334,7 @@ a member must be nominated by any Member of the corporation other
 than a Basic Member, or by a specially chartered Working Group, which 
 nomination should be based upon certain criteria to be established by 
 the Board of Directors and which criteria shall be designed to emphasize 
-extraordinary contributions. Following such nomination, approval of two-
-thirds (2/3) of the members entitled to vote, or two-thirds (2/3) of the 
+extraordinary contributions. Following such nomination, approval of two-thirds (2/3) of the members entitled to vote, or two-thirds (2/3) of the 
 members of the chartered Working Group, or two-thirds (2/3) of the Board of 
 Directors,shall be required shall be required in order for a member to become 
 a Fellow. Upon election, a Fellow shall remain a Fellow for the remainder of 
