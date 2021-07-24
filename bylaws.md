@@ -476,6 +476,14 @@ than the election of Cohort A directors. Officer Directors can also be
 removed subject to a vote of no confidence by the at-large Directors.
 In all other respects Officer Directors shall be as at-large Directors.
 
+**Section 5.5.2 Term Limits for Directors.** 
+No elected director shall be eligible for election after having served 
+six or more consecutive years. If a director has served for six or more 
+years, that director shall again become eligible for election to the 
+Board of Directors in the following calendar year after stepping down
+from the Board. This limit shall take effect upon the next election of 
+non-term-limited directors.
+
 **Section 5.6. Resignation and Removal of Directors.** A director may 
 resign at any time upon written request to the corporation.
 Furthermore, any director or the entire Board of Directors may be removed, 
